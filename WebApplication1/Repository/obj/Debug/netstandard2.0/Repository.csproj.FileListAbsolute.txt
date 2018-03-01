@@ -1,0 +1,9 @@
+C:\Users\weyli\CSC\WebApplication1\Repository\bin\Debug\netstandard2.0\Repository.deps.json
+C:\Users\weyli\CSC\WebApplication1\Repository\bin\Debug\netstandard2.0\Repository.dll
+C:\Users\weyli\CSC\WebApplication1\Repository\bin\Debug\netstandard2.0\Repository.pdb
+C:\Users\weyli\CSC\WebApplication1\Repository\obj\Debug\netstandard2.0\Repository.csprojResolveAssemblyReference.cache
+C:\Users\weyli\CSC\WebApplication1\Repository\obj\Debug\netstandard2.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\weyli\CSC\WebApplication1\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfoInputs.cache
+C:\Users\weyli\CSC\WebApplication1\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfo.cs
+C:\Users\weyli\CSC\WebApplication1\Repository\obj\Debug\netstandard2.0\Repository.dll
+C:\Users\weyli\CSC\WebApplication1\Repository\obj\Debug\netstandard2.0\Repository.pdb
